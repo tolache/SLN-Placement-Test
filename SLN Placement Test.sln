@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLN Placement Test", "SLN Placement Test.csproj", "{8EDF2513-E19E-430B-BC23-2C64A3268F1F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLN Placement Test", "SLN Placement Test\SLN Placement Test.csproj", "{8EDF2513-E19E-430B-BC23-2C64A3268F1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
